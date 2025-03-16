@@ -1,4 +1,4 @@
-import { Personagem } from "./modules/personagem.js"
+import { Personagem } from "./modules/personagem.js"    
 import { PersonagemView } from "./components/personagem-view.js"
 import { ArqueiroMago } from "./modules/arqueiroMago.js"
 import { Arqueiro } from "./modules/arqueiro.js"
